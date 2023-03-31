@@ -11,9 +11,8 @@ Un logiciel que vous POSSÉDEZ, et qui s'adapte à vos besoins. Pas d'abonnement
 * Thème sombre: Pour économiser la batterie, et pour vos yeux, un thème sombre est à votre disposition !
 
 ## Acheter maintenant
-Disponible dans le Microsoft Store pour Windows 10/11. En téléchargement pour Mac (macOS). Une connexion internet est nécessaire pour l'activation du logiciel.
+Disponible dans le Microsoft Store pour Windows 10/11. Une connexion internet est nécessaire pour l'activation du logiciel.
 
 * [Microsoft Store (Windows 10/11)](https://www.microsoft.com/store/productId/9PNF37CWRHH6)
-* [Acheter pour macOS](https://dezeiraud.gumroad.com/l/ma-compta-auto-entreprise)
 
 Une question ? Un problème ? Contactez-nous à l'adresse support@dezeiraud.com ou une Issue Github.
