@@ -1,7 +1,7 @@
 # ma-compta-auto-entreprise
 Votre outil de facturation, devis et avoirs. Gérez votre fichier client, établissez des devis et générez des factures. Pas besoin de connexion internet pour l’utiliser.
 
-Site internet: [https://ma-compta-auto-entreprise.dezeiraud.com/](https://www.ma-compta-auto-entreprise.fr/)
+Site internet: https://www.ma-compta-auto-entreprise.fr/
 
 ## Simple, puissante et rapide
 Un logiciel que vous POSSÉDEZ, et qui s'adapte à vos besoins. Pas d'abonnement caché, pas de mauvaise surprise. Pour faire vos factures et devis. La gestion de vos clients. Suivre les retards de paiement.
