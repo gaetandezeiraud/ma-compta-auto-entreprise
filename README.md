@@ -15,4 +15,4 @@ Disponible dans le Microsoft Store pour Windows 10/11. Une connexion internet es
 
 * [Microsoft Store (Windows 10/11)](https://www.microsoft.com/store/productId/9PNF37CWRHH6)
 
-Une question ? Un problème ? Contactez-nous à l'adresse support@dezeiraud.com ou une Issue Github.
+Une question ? Un problème ? Contactez-nous à l'adresse support@dezeiraud.com.
